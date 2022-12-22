@@ -3,6 +3,9 @@
 <p align="center">
   Web development experience of at least four years and a highly experienced professional who freelanced for various businesses. Outstanding product expertise, including XD, Figma and Photoshop. Collect and evaluate user demands in collaboration with product managers and engineers. Illustrate design ideas via storyboards and process flows. Create UI mockups and prototypes that accurately represent the functionality and design of websites. involvement in all phases of the project lifecycle, including requirement gathering, user analysis, UI design, testing, and implementation.
 <hr>
+
+</p>
+<p align="center">
 👉 Bachelor’s Degree in Information Technology<br>
 👉 Web development projects<br>
 👉 Technical Analysis<br>
@@ -10,8 +13,7 @@
 👉 Programming<br>
 👉 Communications<br>
 👉 Problem resolution<br>
-👉 Team Spirit<br>
-</p>
+👉 Team Spirit<br></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-ghimire" /> </p>
 
 - 👨‍💻 All of my projects are available at [sauravghimire.com](sauravghimire.com)

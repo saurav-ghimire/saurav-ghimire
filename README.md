@@ -1,30 +1,31 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Saurav Ghimire</h1>
-<h3 align="left">A passionate web developer from Nepal</h3>
+<h3 align="left">A passionate web developer from Canada</h3>
 <img width="300" align="right" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding" >
 <p align="justify">
-  Web development experience of at least four years and a highly experienced professional who freelanced for various businesses. Outstanding product expertise, including XD, Figma and Photoshop. Collect and evaluate user demands in collaboration with product managers and engineers. Illustrate design ideas via storyboards and process flows. Create UI mockups and prototypes that accurately represent the functionality and design of websites. involvement in all phases of the project lifecycle, including requirement gathering, user analysis, UI design, testing, and implementation.
-
+    I am a dedicated full-stack web developer with over four years of experience, specializing in React.js, Next.js, Node.js, Express, and MongoDB. I have freelanced for various businesses, delivering top-notch web solutions. My expertise includes front-end and back-end development, user interface design, and website optimization. I work closely with product managers and engineers to collect and evaluate user requirements, creating UI mockups and prototypes that effectively represent the functionality and design of websites. My involvement spans all phases of the project lifecycle, including requirement gathering, user analysis, UI design, testing, and implementation.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-ghimire&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-ghimire" /> </p>
 
 </p>
 <hr>
 <p align="center">
 👉 Bachelor’s Degree in Information Technology<br>
+👉 Currently studying Post Graduation in Full Stack Software Development<br>
 👉 Web development projects<br>
 👉 Technical Analysis<br>
 👉 Website optimization<br>
 👉 Programming<br>
 👉 Communications<br>
 👉 Problem resolution<br>
-👉 Team Spirit<br></p>
+👉 Team Spirit<br>
+</p>
 
 
 - 👨‍💻 All of my projects are available at [sauravghimire.com](sauravghimire.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/saurav-ghimire-developer/recent-activity/posts/](https://www.linkedin.com/in/saurav-ghimire-developer/recent-activity/posts/)
 
-- 💬 Ask me about **react, node, wordpress, frontend, html, css, JS**
+- 💬 Ask me about **react, next.js, node, wordpress, frontend, html, css, JS**
 
 - 📫 How to reach me **sauravghimire0123@gmail.com**
 
